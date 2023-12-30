@@ -5,7 +5,7 @@ This is the PCB for the [Tamarin-C firmware](https://github.com/stacksmashing/ta
 
 A tool to explore USB-C on Apple devices using the [Tamarin C Hardware](https://github.com/stacksmashing/tamarin-c-hw).
 
-It is based on the [Central Scrutinizer by Marc Zyngier](https://git.kernel.org/pub/scm/linux/kernel/git/maz/cs-hw.git/about/).
+It is based on the [Central Scrutinizer by Marc Zyngier](https://git.kernel.org/pub/scm/linux/kernel/git/maz/cs-hw.git/).
 
 If you're assembling one: An interactive BOM is included with this repository.
 
